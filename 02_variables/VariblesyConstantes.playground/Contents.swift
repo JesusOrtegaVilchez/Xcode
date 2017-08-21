@@ -1,7 +1,7 @@
 
-import UIKit
+import UIKit //libreria
 
-var saludo = "Hola!!!!!"
+var saludo = "Hola!!!!!" //no le asignes un valor si luego le vas a dar otro
 
 saludo = "Hola Miguel"
 
